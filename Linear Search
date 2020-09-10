@@ -43,3 +43,7 @@ int main()
   }
   
 }
+
+
+// For the other mehod: Move to Head:-->
+// Just replace A[i] with A[0] in the swap function.

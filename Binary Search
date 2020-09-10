@@ -1,4 +1,7 @@
 # Binary Search--- Array should always be sorted in ascending/descending order.
+
+// ITERATIVE METHOD:
+
 struct Array
 {
   int A[20];
